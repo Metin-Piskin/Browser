@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\Web Tarayıcı\Web Tarayıcı\bin\Debug\Web Tarayıcı.exe.config
+C:\Users\Metin\source\repos\Metin Form\Web Tarayıcı\Web Tarayıcı\bin\Debug\Web Tarayıcı.exe
+C:\Users\Metin\source\repos\Metin Form\Web Tarayıcı\Web Tarayıcı\bin\Debug\Web Tarayıcı.pdb
+C:\Users\Metin\source\repos\Metin Form\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web Tarayıcı.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web_Tarayıcı.Browser.resources
+C:\Users\Metin\source\repos\Metin Form\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web_Tarayıcı.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web Tarayıcı.exe
+C:\Users\Metin\source\repos\Metin Form\Web Tarayıcı\Web Tarayıcı\obj\Debug\Web Tarayıcı.pdb
